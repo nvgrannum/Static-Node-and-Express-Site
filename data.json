@@ -1,0 +1,44 @@
+{
+    "projects":[
+        {"id":0,
+        "project_name":"Random Quote Generator",
+        "description": "Takes an array of random quotes and displays them on the page with a random background color. The quote and color change when the user selects 'show another quote' or automatically every 20 seconds.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live-link": "test0",
+        "github_link": "https://github.com/nvgrannum/Treehouse-Unit-1-Project",
+        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        },
+        {"id":1,
+        "project_name":"Data Pagination",
+        "description": "Paging the data",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live-link": "test1",
+        "github_link": "https://github.com/nvgrannum/Data-Pagination",
+        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        },
+        {"id":2,
+        "project_name":"Employee Database",
+        "description": "Databasing the employees",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live-link": "test2",
+        "github_link": "https://github.com/nvgrannum/Interactive-Form-Unit-3",
+        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        },
+        {"id":3,
+        "project_name":"Phrase Hunter",
+        "description": "Using either on-screen keys or the keyboard, the player has to guess a hidden phrase. But be careful, 5 incorrect guesses and it's game over!",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live-link": "test3",
+        "github_link": "https://github.com/nvgrannum/OOP-Game-Show-App---Unit-4",
+        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        },
+        {"id":4,
+        "project_name":"Employee Directory",
+        "description": "Displays a list of employees from . When an employee is selected, a modal window with more information is displayed.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live-link": "test4",
+        "github_link": "https://github.com/nvgrannum/Public-API-Request---Unit-5",
+        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        }
+    ]
+}
