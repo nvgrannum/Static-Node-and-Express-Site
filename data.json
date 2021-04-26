@@ -1,6 +1,6 @@
 {
     "projects":[
-        {"id":0,
+        {"id":0, 
         "project_name":"Random Quote Generator",
         "description": "Takes an array of random quotes and displays them on the page with a random background color. The quote and color change when the user selects 'show another quote' or automatically every 20 seconds.",
         "technologies": ["JavaScript", "HTML", "CSS"],
