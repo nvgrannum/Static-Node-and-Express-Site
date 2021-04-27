@@ -2,43 +2,43 @@
     "projects":[
         {"id":0, 
         "project_name":"Random Quote Generator",
-        "description": "Takes an array of random quotes and displays them on the page with a random background color. The quote and color change when the user selects 'show another quote' or automatically every 20 seconds.",
+        "description": "Takes a random quote from an array and displays it on the page with a random background color. The quote and color change when the user selects 'show another quote' or automatically every 20 seconds.",
         "technologies": ["JavaScript", "HTML", "CSS"],
-        "live-link": "test0",
+        "live_link": "https://nvgrannum.github.io/Treehouse-Unit-1-Project/",
         "github_link": "https://github.com/nvgrannum/Treehouse-Unit-1-Project",
-        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        "image_urls": ["../images/Project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
         },
         {"id":1,
         "project_name":"Data Pagination",
         "description": "Paging the data",
         "technologies": ["JavaScript", "HTML", "CSS"],
-        "live-link": "test1",
+        "live_link": "https://nvgrannum.github.io/Data-Pagination/",
         "github_link": "https://github.com/nvgrannum/Data-Pagination",
-        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        "image_urls": ["../images/project2/Project2_pg1.png","../images/project2/Project2_pg4.png", "../images/project2/Project2_pg5.png"]
         },
         {"id":2,
         "project_name":"Employee Database",
         "description": "Databasing the employees",
         "technologies": ["JavaScript", "HTML", "CSS"],
-        "live-link": "test2",
+        "live_link": "https://nvgrannum.github.io/Interactive-Form-Unit-3/",
         "github_link": "https://github.com/nvgrannum/Interactive-Form-Unit-3",
-        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        "image_urls": ["../images/project3/Project3_blank.png","../images/project3/Project3_errors.png", "../images/project3/Project3_options.png", "../images/project3/Project3_partial.png"]
         },
         {"id":3,
         "project_name":"Phrase Hunter",
-        "description": "Using either on-screen keys or the keyboard, the player has to guess a hidden phrase. But be careful, 5 incorrect guesses and it's game over!",
+        "description": "Using either on-screen keys or the keyboard, the player has to guess a hidden phrase from an array of phrases. But be careful, 5 incorrect guesses and it's game over!",
         "technologies": ["JavaScript", "HTML", "CSS"],
-        "live-link": "test3",
+        "live_link": "https://nvgrannum.github.io/OOP-Game-Show-App---Unit-4/",
         "github_link": "https://github.com/nvgrannum/OOP-Game-Show-App---Unit-4",
-        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        "image_urls": ["../images/project4/Project4_start.png","../images/project4/Project4_play.png", "../images/project4/Project4_lose.png", "../images/project4/Project4_win.png"]
         },
         {"id":4,
         "project_name":"Employee Directory",
         "description": "Displays a list of employees from . When an employee is selected, a modal window with more information is displayed.",
         "technologies": ["JavaScript", "HTML", "CSS"],
-        "live-link": "test4",
+        "live_link": "https://nvgrannum.github.io/Public-API-Request---Unit-5/",
         "github_link": "https://github.com/nvgrannum/Public-API-Request---Unit-5",
-        "image_urls": ["../images/project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        "image_urls": ["../images/project5/Project5.png","../images/project5/Project5_hover.png", "../images/project5/Project5_modal.png"]
         }
     ]
 }
