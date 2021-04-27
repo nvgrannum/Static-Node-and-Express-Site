@@ -1,9 +1,10 @@
 extends layout.pug 
 
 block content 
-    h1= err.status
-    h2= err.message="Page does not exist :("
-    pre= err.stack
 
-    form(action='get', method='/')
-        button(type='submit') Home
+    h1= err.status
+    h2= err.message
+    p Please check URL for correctness or use navigation buttons!
+    
+
+    a(href='/') Home

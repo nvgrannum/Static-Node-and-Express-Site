@@ -2,8 +2,6 @@ extends layout.pug
 
 block content 
     h1= err.status
-    h2= err.message="Server made an oops. Try again :("
+    h2= err.message
 
-    form(action='get', method='/')
-        button(type='submit') Home
-    
+    a(href='/') Home

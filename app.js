@@ -27,15 +27,18 @@ app.get('/project/:id', (req, res) => {
 app.use((err, req,res,next)=>{
     res.locals.error= err;
 
-    if (err.status === 404) {
+    if (res.status(404)) {
+        err.status=404;
+        err.message="That page does not exist :("
         return res.render('page-not-found', {err});
-    } else if (err.status === 500) {
+    } else {
+        err.status=500;
+        err.message="Server made an oops :( Try again"
         return res.render('error', {err});
     }
 
     next(err)
 });
-
 
 
 module.exports = router;
