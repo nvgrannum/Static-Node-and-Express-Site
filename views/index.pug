@@ -5,7 +5,7 @@ block content
   article.portfolio-intro
 
     //- Replace with your own heading like 'My Portfolio', or 'Hey, Potential Employers', or 'Let's make the web great together!' 
-    h1 Worthy of NV
+    h1 <i>Green with NV</i>
 
     //- Replace with a description for your portfolio, what this project is, it's purpose, what it's supposed to accomplish, etc. 
     p Let's take a trip down memory lane for some of the things I've experienced that you were not there for.
@@ -24,6 +24,6 @@ block content
   each project in projects
     .cell
       a(href=`/project/${project.id}`)
-        img.thumbnail(src=`${project.image_urls[0]}`, alt=`Thumbnail of ${project.project_name} project`)
+        img.thumbnail(src=`${project.image_urls[0]}`, alt=`Thumbnail of ${project.project_name} project`, style="width:550px")
         h5=`${project.project_name}`
 

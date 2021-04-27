@@ -6,7 +6,7 @@ const app = express();
 const router = express.Router();
 
 app.set('view engine', 'pug');
-app.use(express.static('public'));
+app.use('/static',express.static('public'));
 
 app.get('/', (req, res)=> {
     const {id} = req.params;

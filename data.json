@@ -6,7 +6,7 @@
         "technologies": ["Arrays", "Functions", "SetInterval","Math.Random"],
         "live_link": "https://nvgrannum.github.io/Treehouse-Unit-1-Project/",
         "github_link": "https://github.com/nvgrannum/Treehouse-Unit-1-Project",
-        "image_urls": ["../images/Project1/Project1_Castles.png","../images/project1/Project1_Distance.png", "../images/project1/Project1_Selfcare.png"]
+        "image_urls": ["../static/images/Project1/Project1_Castles.png","../static/images/project1/Project1_Distance.png", "../static/images/project1/Project1_Selfcare.png"]
         },
         {"id":1,
         "project_name":"Data Pagination",
@@ -14,7 +14,7 @@
         "technologies": ["Loops", "Math.ceil", "InnerHTML","AddEventListener", "ClassList", "QuerySelector"],
         "live_link": "https://nvgrannum.github.io/Data-Pagination/",
         "github_link": "https://github.com/nvgrannum/Data-Pagination",
-        "image_urls": ["../images/project2/Project2_pg1.png","../images/project2/Project2_pg4.png", "../images/project2/Project2_pg5.png"]
+        "image_urls": ["../static/images/project2/Project2_pg1.png","../static/images/project2/Project2_pg4.png", "../static/images/project2/Project2_pg5.png"]
         },
         {"id":2,
         "project_name":"Interactive Form",
@@ -22,7 +22,7 @@
         "technologies": ["Regex","QuerySelector", "AddEventListener", "ClassList"],
         "live_link": "https://nvgrannum.github.io/Interactive-Form-Unit-3/",
         "github_link": "https://github.com/nvgrannum/Interactive-Form-Unit-3",
-        "image_urls": ["../images/project3/Project3_blank.png","../images/project3/Project3_errors.png", "../images/project3/Project3_options.png", "../images/project3/Project3_partial.png"]
+        "image_urls": ["../static/images/project3/Project3_blank.png","../static/images/project3/Project3_errors.png", "../static/images/project3/Project3_options.png", "../static/images/project3/Project3_partial.png"]
         },
         {"id":3,
         "project_name":"Phrase Hunter",
@@ -30,7 +30,7 @@
         "technologies": ["Classes","Constructors", "AddEventListener", "Arrays", "ForEach","Regex"],
         "live_link": "https://nvgrannum.github.io/OOP-Game-Show-App---Unit-4/",
         "github_link": "https://github.com/nvgrannum/OOP-Game-Show-App---Unit-4",
-        "image_urls": ["../images/project4/Project4_start.png","../images/project4/Project4_play.png", "../images/project4/Project4_lose.png", "../images/project4/Project4_win.png"]
+        "image_urls": ["../static/images/project4/Project4_start.png","../static/images/project4/Project4_play.png", "../static/images/project4/Project4_lose.png", "../static/images/project4/Project4_win.png"]
         },
         {"id":4,
         "project_name":"Employee Directory",
@@ -38,7 +38,7 @@
         "technologies": ["Async Functions", "Await", ".then",".catch","Map","InsertAdjacentHTML"],
         "live_link": "https://nvgrannum.github.io/Public-API-Request---Unit-5/",
         "github_link": "https://github.com/nvgrannum/Public-API-Request---Unit-5",
-        "image_urls": ["../images/project5/Project5.png","../images/project5/Project5_hover.png", "../images/project5/Project5_modal.png"]
+        "image_urls": ["../static/images/project5/Project5.png","../static/images/project5/Project5_hover.png", "../static/images/project5/Project5_modal.png"]
         }
     ]
 }
