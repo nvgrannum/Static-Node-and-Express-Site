@@ -167,7 +167,7 @@ nav a span {
   text-rendering: optimizeLegibility;
   line-height: 1.6;
   font-size: 14px;
-  color: #999
+  color: rgb(211, 211, 211)
 }
 
 .sidebar a {
