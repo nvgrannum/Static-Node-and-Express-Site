@@ -47,11 +47,13 @@ app.use((err, req,res,next)=>{
     if (err.status ===404) {
         res.status(err.status);
         err.message="That page does not exist :("
+        console.log(err.message);
         return res.render('page-not-found', {err});
     } else {
         err.status = 500;
         res.status(err.status);
         err.message="Server made an oops :( Try again"
+        console.log(err.message);
         return res.render('error', {err});
     }
 
